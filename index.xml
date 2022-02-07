@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Science Portfolio on Neha Mallikarjuna</title>
+    <link>https://nehams3.github.io/Neha_Portfolio/</link>
+    <description>Recent content in Data Science Portfolio on Neha Mallikarjuna</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 02 Feb 2022 10:58:08 -0400</lastBuildDate><atom:link href="https://nehams3.github.io/Neha_Portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 1: Personal Finance Dashboard using Power BI</title>
+      <link>https://nehams3.github.io/Neha_Portfolio/post/project-1/</link>
+      <pubDate>Wed, 02 Feb 2022 10:58:08 -0400</pubDate>
+      
+      <guid>https://nehams3.github.io/Neha_Portfolio/post/project-1/</guid>
+      <description>A Dashboard that helps anyone to track their Personal finance built using Power BI. Build the dataset by categorizing your finance as Income,Expense and Saving. Used features of Power BI like DAX formulas, Measures and Visualizations to build the Dashboard.   Link to GitHub Repository</description>
+    </item>
+    
+    <item>
+      <title>Project 2: E-Commerce Sales Dashboard</title>
+      <link>https://nehams3.github.io/Neha_Portfolio/post/project-2/</link>
+      <pubDate>Mon, 30 Aug 2021 11:00:59 -0400</pubDate>
+      
+      <guid>https://nehams3.github.io/Neha_Portfolio/post/project-2/</guid>
+      <description>Background      E-commerce is fast gaining ground as an accepted and used business paradigm. More and more business houses are implementing web sites providing functionality for performing commercial transactions over the web. It is reasonable to say that the process of shopping on the web is becoming commonplace.        Objective      An Online E-Commerce Company wants to design a Sales dashboard to analyze the sales based on various product categories.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://nehams3.github.io/Neha_Portfolio/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nehams3.github.io/Neha_Portfolio/contact/</guid>
+      <description>Below are my contact details.
+   Platform      LinkedIn: https://www.linkedin.com/in/neha-mallikarjuna-79079811b   GitHub: https://github.com/Nehams3   Email ID: m.nehams3@gmail.com   Phone: +919743322803    </description>
+    </item>
+    
+  </channel>
+</rss>
